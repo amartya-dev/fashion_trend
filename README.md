@@ -17,8 +17,16 @@ After proper Identification of such trends, finding innovative ways of suitably 
 ### Segment scraped images to find minute trends
 
 - A computer vision model that can identify and classify different articles of clothing as well as most design aspects like clothing patterns, designs, materials, color combinations etc. will be developed.
+
 - Running a model like this on pictures posted on social media by film celebrities, YouTubers, sportspeople, etc would help identify the prevalent micro trends in styles of clothing.
+
 - A dashboard would help convey the most popular color combinations, patterns etc. Thus helping designers come up with ideas themselves.
+
+  
+
+![Segmented fashion image](images/Segmented.png)
+
+
 
 OR
 
