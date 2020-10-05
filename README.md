@@ -36,6 +36,14 @@ OR
 
 Gan can help generate different designs of clothing taking into account the current micro-trends from the previous step. The idea is to train a model such that it will be able to generate close to human designs for current micro trends.
 
+
+
+## General flow of application
+
+![Flow Diagram](images/flow.png)
+
+
+
 ## Contributing to existing industry standards
 
 Contribution to existing industry standard:
